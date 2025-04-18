@@ -4,6 +4,8 @@ Frontend application that generates random quotes from multiple integrated quote
 
 📚 Quote Generator App
 
+want to see what it look like ? go to: https://cerulean-parfait-e9f6d5.netlify.app
+
 Welcome to the Quote Generator App!
 This web application displays inspirational and iconic quotes from various sources, including French local quotes, TV shows, and famous personalities.
 You can easily copy the quotes to your clipboard and refresh to get new ones!
